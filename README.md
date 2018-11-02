@@ -35,6 +35,8 @@ Materiais interessantes para estudar sobre programação. Essa lista surgiu a pa
 
 * [Writing JavaScript with Accessibility in Mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 
+* [Accessible R Markdown Documents](https://r-resources.massey.ac.nz/rmarkdown/) #R #RSTATS #RMARKDOWN
+
 
 **Agradecimentos** por indicar materiais sobre acessibilidade web: 
 [@LFeh](https://twitter.com/LFeh), 
