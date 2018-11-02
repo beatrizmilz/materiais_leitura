@@ -44,7 +44,8 @@ Materiais interessantes para estudar sobre programação. Essa lista surgiu a pa
 [@lucas_dejsilva](https://twitter.com/lucas_dejsilva), 
 [@reinaldoferraz](https://twitter.com/reinaldoferraz), 
 [@felipecesr](https://twitter.com/felipecesr), 
-[@nixzera](https://twitter.com/nixzera).
+[@nixzera](https://twitter.com/nixzera),
+[@ma_salmon](https://twitter.com/ma_salmon).
 
 
 ## Git e GitHub
